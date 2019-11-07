@@ -1,0 +1,14 @@
+//
+// Created by 上原信二 on 2019-11-06.
+//
+
+#ifndef OPENGLNATIVESAMPLEPROJECT_NATIVE_TEST_H
+#define OPENGLNATIVESAMPLEPROJECT_NATIVE_TEST_H
+
+
+class native_test {
+
+};
+
+
+#endif //OPENGLNATIVESAMPLEPROJECT_NATIVE_TEST_H
